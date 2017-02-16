@@ -19,6 +19,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	You can see the chain of commits that lead to each head, and where they diverge.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
