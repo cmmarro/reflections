@@ -24,5 +24,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	Git will attempt to combine the changes on each branch, creating a new "head", interleaving all the previous commits- including additions and subtractions.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
