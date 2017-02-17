@@ -17,3 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	A: You could use a different system like SVN. You could email files back and forth, or use dropbox. But it would be harder to merge changes and not get confused.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	A: If you were working on something experimental, or collaborating with others, you would want to work on a seperate branch so your changes could be evaluated before being merged into the master.
